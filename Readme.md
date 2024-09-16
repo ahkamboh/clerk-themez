@@ -81,6 +81,7 @@ export default function RootLayout({
     <ClerkProvider
       appearance={{
         baseTheme: neobrutalism,
+        variables: { colorPrimary: "#fa0053" },
       }}
     >
       <html lang="en">
