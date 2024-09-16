@@ -8,6 +8,9 @@
 - Global application of themes across all Clerk auth sections
 - Works with Next.js and other frameworks
 
+## Demo Video 
+   [![Play Video](https://github.com/user-attachments/assets/04f00ed0-3cef-44f8-9fd4-e696d3fe1f3f)](https://www.youtube.com/watch?v=nkMluXSstJo "Click to Watch!")
+
 ## Installation
 
 ### Step 1: To install the `clerk-themez` package, run:
