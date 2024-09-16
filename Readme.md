@@ -10,17 +10,55 @@
 
 ## Installation
 
-To install the `clerk-themez` package, run:
+### Step 1: To install the `clerk-themez` package, run:
 
 ```bash
-npm install clerk-themez
+  npm install clerk-themez
 ```
 
-## Usage
+### Step 2: To use the `clerk-themez` package, must run to install clerk:
+
+```bash
+  npm install @clerk/nextjs
+```
+ 
+### Step 3: To use the `clerk-themez` package, must run to install clerk theme:
+
+```bash
+ npm install @clerk/themes
+```
+### Step 4: Must import this otherwise themes not work properly in your root directory.
+
+ ```tsx
+   import { neobrutalism } from "@clerk/themes";
+```
+
+### Step 5: Must add  `neobrutalism` this in your   `<ClerkProvider>` like this in your root directory :
+
+  ```tsx
+      <ClerkProvider
+      appearance={{
+        baseTheme: neobrutalism,
+      }}
+    >
+      <html lang="en">
+        <body >{children}</body>
+      </html>
+    </ClerkProvider>
+```
+
+### Step 6:  import theme in your root directory:
+
+```tsx
+  import 'clerk-themez/themes/<themename>.css'; 
+```
+
+
+## Usage Example
 
 Once installed, you can easily apply a theme globally by importing it into your root or layout file.
 
-### Step 1: Import the Theme Globally
+### Import the Theme Globally
 
 In a **Next.js** project, import the theme in your `layout.tsx` file for it to apply across all Clerk components (such as `SignIn`, `SignUp`, and the `UserButton`).
 
@@ -29,22 +67,33 @@ In a **Next.js** project, import the theme in your `layout.tsx` file for it to a
 ```tsx
 // src/app/layout.tsx
 
+import type { Metadata } from "next";
+import { ClerkProvider } from "@clerk/nextjs";
+import { neobrutalism } from "@clerk/themes";
 import 'clerk-themez/themes/<themename>.css'; // Import the chosen theme
-
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
   return (
-    <html lang="en">
-      <body>
-        {children}
-      </body>
-    </html>
+    <ClerkProvider
+      appearance={{
+        baseTheme: neobrutalism,
+      }}
+    >
+      <html lang="en">
+        <body >{children}</body>
+      </html>
+    </ClerkProvider>
   );
 }
+
 ```
 
 Replace `<themename>` with the name of your preferred theme from the list below.
 
-### Step 2: Apply to Clerk Components
+### Apply to Clerk Components
 
 By importing the theme in the root file (`layout.tsx` for Next.js), the styles will automatically apply to all Clerk authentication components across your app, including:
 

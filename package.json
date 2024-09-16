@@ -1,6 +1,6 @@
 {
   "name": "clerk-themez",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A collection of themes for Clerk Auth with hidden logo, clerk-themes-extend",
   "main": "index.js",
   "scripts": {
