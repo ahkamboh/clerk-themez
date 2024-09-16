@@ -1,7 +1,7 @@
 {
-  "name": "clerk-themes-extend",
-  "version": "1.0.1",
-  "description": "A collection of CSS themes for Clerk Auth",
+  "name": "clerk-themez",
+  "version": "1.0.0",
+  "description": "A collection of themes for Clerk Auth with hidden logo, clerk-themes-extend",
   "main": "index.js",
   "scripts": {
     "build": "echo 'Building Clerk themes...'"
