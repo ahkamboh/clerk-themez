@@ -1,7 +1,3 @@
-Got it! Here's the revised `README.md` file for your `clerk-themez` package that addresses the requirement to import the theme in the layout or root file, which will apply to all Clerk authentication components across the app in any framework (like Next.js, React, etc.).
-
----
-
 # Clerk-Themez
 
 **Clerk-Themez** is a collection of custom themes designed specifically for Clerk authentication components. With these themes, you can style Clerk’s sign-in, sign-up, and user button management sections globally by importing the theme once in your root or layout file.
@@ -157,7 +153,3 @@ If you'd like to contribute to this collection of themes, feel free to fork the 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-This documentation provides step-by-step instructions on how to use the themes in a Next.js app (or any other framework) by importing the theme into the layout file, ensuring the theme applies globally across all Clerk authentication components.
