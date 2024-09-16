@@ -1,0 +1,5685 @@
+```css
+/* 1st theme  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background-image: url(https://res.cloudinary.com/dhwd1xki6/image/upload/v1726419885/protruding-squares-orange-background_bercls.png);
+  background-size: cover;
+  background-position: center;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+border: 1px solid #ffffff9b;
+}
+.cl-userPreview{
+  background-image: url(https://res.cloudinary.com/dhwd1xki6/image/upload/v1726419885/protruding-squares-orange-background_bercls.png);
+}
+.cl-internal-195nssj{
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #ff7a2c;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #ff7a2c;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #ff7a2c;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  display: none;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #ff7a2c;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #ff7a2c;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #ff7a2cab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #ff7a2c;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #ff7a2cc5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #ff7a2c;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #ff7a2c;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css
+/* 2nd theme */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background: rgba(255, 255, 255, 0.2) ;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+  background: rgba(255, 255, 255, 0.2) ;
+
+}
+.cl-internal-195nssj{
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #000000;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #000000;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #000000;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  display: none;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #000000;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #000000ab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #000000;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #000000c5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #000000;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #000000;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+
+```
+```css
+ /* 3rd theme  */
+
+ .cl-signUp-root ,
+ .cl-internal-d5dzke ,
+ .cl-internal-bzdfjc,
+ .cl-signIn-root{
+   background-image: url(https://res.cloudinary.com/dhwd1xki6/image/upload/v1726421326/bg-grain-f042ea01f4cd0b3fcbc9b922d34647cfea93e5badb0b47c998117a4e62daf4f9_uo0kpr.webp);
+   background-color: #ffffff;
+   border-radius: 16px;
+   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+   backdrop-filter: blur(5px);
+   -webkit-backdrop-filter: blur(5px);
+   border: 1px solid rgba(255, 255, 255, 0.3);
+ }
+ .cl-userPreview{
+   background-image: url(https://res.cloudinary.com/dhwd1xki6/image/upload/v1726421326/bg-grain-f042ea01f4cd0b3fcbc9b922d34647cfea93e5badb0b47c998117a4e62daf4f9_uo0kpr.webp)
+ 
+ }
+ .cl-internal-195nssj{
+  border: 1.5px solid #ffffff; 
+}
+ .cl-internal-mg5k16 .bg-white ,
+ .cl-internal-bzdfjc{
+   border: 2px solid #000000;
+   background-color: #ffffff ;
+ }
+ .cl-internal-1b2ebjn ,
+ .cl-internal-13lvar6 {
+   background: transparent;
+ }
+ .cl-internal-1b2ebjn ,
+ .cl-internal-13lvar6 {
+   background: transparent;
+ }
+ .cl-internal-bzdfjc {
+   border: none;
+ }
+ .cl-dividerLine{
+   background: #000000;
+ }
+ .cl-internal-3jqw6b{
+   background-color: transparent;
+   box-shadow: none;
+     border: 1px solid #ffffff9b;
+ }
+ .cl-socialButtonsBlockButton,
+ .cl-otpCodeFieldInput ,.cl-button{
+   background-color: #000000;
+   box-shadow: none;
+     border: 1px solid #ffffff9b;
+ }
+ .cl-formFieldInputShowPasswordButton{
+   border: none;
+   background: transparent;
+   box-shadow: none;
+ }
+ .cl-formFieldInputShowPasswordButton:hover{
+   background: transparent;
+ }
+ .cl-internal-1mwxfst{
+   accent-color: #000000;
+ }
+ .cl-userButtonTrigger{
+   box-shadow: none;
+ }
+ .cl-userButtonPopoverActionButton{
+   background: transparent;
+   color: #000000 !important;
+ }
+ .cl-userButtonPopoverActionButton:hover{
+   background-color: transparent !important;
+   color: #ffffff;
+ }
+ .cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+   color: #ffffff;
+ }
+ 
+ .cl-button:hover ,.cl-button:focus{
+   color: #ffffff;
+   box-shadow: none;
+   background-color: #181818;
+   
+ }
+ .cl-socialButtonsBlockButton:hover{
+   transition: all 0.3s ease-in;
+   background-color: #000000;
+ }
+ 
+ .cl-internal-xpydm8,
+ .cl-internal-1k60c9o,
+ .cl-internal-3f8jnx ,
+ .cl-formFieldRadioLabelTitle{
+   color: #ffffff;
+ }
+ .cl-menuItem:hover{
+   background: #000000;
+ }
+ 
+ .cl-internal-1y71s3o ,
+ .cl-internal-1jokxdd ,
+ .cl-userPreviewSecondaryIdentifier ,
+ .cl-internal-s825v9
+ .cl-internal-1agciv4,
+ .cl-internal-n0yayv
+ ,.cl-profileSectionTitleText {
+   color: #000000;
+   text-decoration: none;
+ }
+ .cl-internal-pp7u0o{
+   display: none;
+ }
+ .cl-internal-hy4pby{
+   box-shadow: none;
+   border: 1px solid #ffffff9b;
+ }
+ .cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+   text-decoration: underline;
+   color: #000000;
+ }
+ .cl-headerSubtitle,
+ .cl-headerTitle,
+ .cl-dividerText,
+ .cl-formFieldLabel ,
+ .cl-footerActionText,.cl-backLink {
+   color: #000000;
+ }
+ .cl-socialButtonsBlockButtonText{
+   color: #ffffff;
+ }
+ .cl-internal-17jfncx ,
+ .cl-internal-1fsy72e {
+   box-shadow: 0 0 0;
+     border: 0;
+ }
+ .cl-formFieldInput{
+  color: #ffffff;
+ }
+ 
+ .cl-internal-1e86so8 ,
+ .cl-internal-csc3r5 {
+   letter-spacing: 2px;
+   color: #000000;
+ }
+ 
+ .cl-internal-1e86so8:hover ,
+ .cl-internal-1e86so8:focus{
+   color: #000000ab;
+ }
+ 
+ .cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+   background-color: #000000;
+   box-shadow: none;
+     border: none;
+ }
+ .cl-internal-1fy2g6e:hover ,
+ .cl-internal-6ni1dv:hover{
+   transition: all 0.3s ease-in;
+   background-color: #000000c5;
+ }
+ 
+ .cl-internal-1dauvpw,
+ .cl-internal-1hp5nqm {
+   display: none;
+ }
+ .cl-signUp-start ,
+ .cl-signIn-start {
+   background: transparent;
+ }
+ .cl-footer ,
+ .cl-internal-617r0v ,
+ .cl-internal-162hn3d ,
+ .cl-identityPreviewText{
+  background: transparent;
+ }
+ .cl-identityPreviewText{
+   color: #000000;
+ }
+ .cl-formResendCodeLink{
+   background: transparent;
+   border: none;
+ }
+ .cl-otpCodeFieldInput{
+   color: #ffffff;
+ }
+ 
+ .cl-identityPreviewEditButton {
+   color: white;
+ }
+ .cl-userPreview{
+   background: transparent;
+ }
+ .cl-internal-1fsy72e ,
+ .cl-internal-1338bh3 ,
+ .cl-internal-10vqj2v{
+   background: #000000 ;
+   border: 1px solid rgba(255, 255, 255, 0.3);
+ }
+ .cl-internal-1fsy72e:hover ,
+ .cl-internal-1fsy72e:focus ,
+ .cl-internal-1338bh3:hover ,
+ .cl-internal-1338bh3:focus,
+ .cl-internal-10vqj2v:focus ,
+ .cl-internal-10vqj2v:hover,
+ .cl-internal-1338bh3 ,
+ .cl-internal-10vqj2v{
+   box-shadow: 0 0 0 ;
+   border: 0;
+   outline: 0;
+ }
+ .cl-internal-1jcsuiw ,
+ .cl-internal-178xxbv  {
+   color: #000000 ;
+ }
+ 
+ .cl-internal-1hp5nqm,
+ .cl-internal-df7v37{
+   display: none;
+ }
+ .cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+   background: transparent;
+ }
+ .cl-internal-k7p5wl{
+   background-color: #ffffff;
+   background-image: url(https://res.cloudinary.com/dhwd1xki6/image/upload/v1726421326/bg-grain-f042ea01f4cd0b3fcbc9b922d34647cfea93e5badb0b47c998117a4e62daf4f9_uo0kpr.webp);
+ }
+ .cl-internal-13u79ez{
+   display: none;
+ }
+```
+
+```css
+/* 4th theme  complete */
+.cl-signUp-root ,
+.cl-signIn-root,
+.cl-internal-bzdfjc,
+.cl-cardBox ,
+.cl-signIn-root{
+background-image: url(https://i.pinimg.com/originals/bd/ac/32/bdac327b05ddaa05216dfa08c9e734c3.jpg);
+background-size: cover;
+border-radius: 16px;
+backdrop-filter: blur(1px);
+-webkit-backdrop-filter: blur(1px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-195nssj{
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel {
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e ,.cl-internal-hy4pby{
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-internal-15vhvbx ,
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 ,.cl-backLink {
+  color: #000000;
+}
+
+
+.cl-backLink:hover{
+  text-decoration: underline;
+  color: #000000;
+}
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: rgb(4, 0, 255);
+}
+.cl-formFieldInputShowPasswordButton{
+  background-color: #fb00ff00;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  color: #199ecf;
+}
+.cl-internal-1fy2g6e ,.cl-button{
+  background: #4c00ff;
+  box-shadow: 0 4px 30px #199ecf;
+
+}
+.cl-button{
+  border: none;
+  color: #199ecf;
+}
+.cl-internal-1fy2g6e:hover ,.cl-button:hover,.cl-button:focus{
+  background: #4407d1b5;
+  box-shadow: 0 4px 40px #199ecf;
+  border: none;
+  color: #1d7da0;
+}
+.cl-internal-3jqw6b,.cl-internal-hy4pby{
+  background: transparent;
+  box-shadow: 0 4px 40px #199ecf;
+  border: none;
+}
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv ,
+.cl-internal-1pgbyfm  {
+  color: #00DBDE ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+
+.cl-internal-1mwxfst{
+  accent-color: #00DBDE;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+  box-shadow: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background-image: url(https://i.pinimg.com/originals/bd/ac/32/bdac327b05ddaa05216dfa08c9e734c3.jpg);
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+
+```
+
+
+
+```css
+/* 5th theme complete  */
+
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+background-image: url(https://cdn.pixabay.com/photo/2020/09/28/16/29/leaves-5610361_640.png);
+background-size: cover;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #6dbc9b;
+}
+.cl-internal-mg5k16 .bg-white ,.cl-internal-bzdfjc{
+  border: 2px solid #6dbc9b;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background: transparent;
+  box-shadow: #2f7152 3px 3px 0px;
+  border: 2px solid #6dbc9b;
+}
+.cl-socialButtonsBlockButton,.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #6dbc9b;
+  box-shadow: #2f7152 3px 3px 0px;
+    border: 2px solid #6dbc9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #00DBDE;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3{
+  color: #ffffff;
+}
+.cl-button:hover{
+  background-color: #65f8bb;
+  color: #128c8e;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background:transparent;
+}
+.cl-internal-1nwvriy  {
+  --accent: #6dbc9b;
+  --accentHover: #6dbc9b;
+  --border: #6dbc9b;
+}
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #00DBDE;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  display: none;
+}
+
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #2f7152;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText ,.cl-internal-zqxz1f {
+  color: #ffffff;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  letter-spacing: 2px;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #6dbc9b;
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  color: #6dbc9b;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #2f7152;
+}
+.cl-internal-hy4pby{
+  box-shadow: #2f7152 3px 3px 0px;
+  border: 2px solid #2f7152;
+}
+
+.cl-internal-1fy2g6e {
+  letter-spacing: 2px;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  background: #6dbc9b;
+  box-shadow: #2f7152 3px 3px 0px;
+  border: 2px solid #2f7152;
+}
+.cl-internal-1fy2g6e:hover{
+  transition: all 0.3s ease-in;
+  background:transparent;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv ,
+.cl-internal-1pgbyfm  {
+  color: #99ffd5 ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;}
+
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background-image: url(https://cdn.pixabay.com/photo/2020/09/28/16/29/leaves-5610361_640.png);
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+
+```
+
+```css
+/* 6th complete */
+
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+
+.cl-internal-195nssj {
+  border: 2px solid #6dbc9b; 
+}
+.cl-internal-mg5k16 .bg-white ,.cl-internal-bzdfjc{
+  border: 2px solid #99ffd5;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b,.cl-internal-hy4pby{
+  background: transparent;
+  box-shadow: #2f7152 3px 3px 0px;
+  border: 2px solid #6dbc9b;
+}
+.cl-socialButtonsBlockButton,.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #6dbc9b;
+  box-shadow: #2f7152 3px 3px 0px;
+    border: 2px solid #6dbc9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #00DBDE;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3{
+  color: #ffffff;
+}
+.cl-button:hover ,.cl-button:focus{
+  background-color: #65f8bb;
+  color: #128c8e;
+  box-shadow: #2f7152 3px 3px 0px;
+  border: 2px solid #6dbc9b;
+}
+.cl-formResendCodeLink {
+  color: #00fbff;
+  background: transparent;
+  box-shadow:none;
+  border: none;
+}
+.cl-identityPreviewEditButton ,.cl-otpCodeFieldInput,.cl-internal-zqxz1f{
+  color: white;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background:transparent;
+}
+.cl-internal-1nwvriy  {
+  --accent: #6dbc9b;
+  --accentHover: #6dbc9b;
+  --border: #6dbc9b;
+}
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #00DBDE;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  display: none;
+}
+
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #2f7152;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  letter-spacing: 2px;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #6dbc9b;
+}
+
+.cl-internal-1e86so8  {
+  letter-spacing: 2px;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  color: #6dbc9b;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #2f7152;
+}
+
+.cl-internal-1fy2g6e{
+  letter-spacing: 2px;
+  font-family: 'ClashDisplay-Bold', sans-serif;
+  background: #6dbc9b;
+  box-shadow: #2f7152 3px 3px 0px;
+  border: 2px solid #2f7152;
+}
+.cl-internal-1fy2g6e:hover{
+  transition: all 0.3s ease-in;
+  background:transparent;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv ,
+.cl-internal-1pgbyfm  {
+  color: #99ffd5 ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #99ffd5;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css
+/* 7th complete  */
+.cl-signUp-root ,
+.cl-signIn-root,
+.cl-internal-bzdfjc,
+.cl-cardBox ,
+.cl-signIn-root{
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.cl-internal-pp7u0o,
+.cl-internal-mywfuw,
+.cl-internal-xpydm8{
+  color: #ffffff;
+}
+
+.cl-internal-mg5k16 .bg-white 
+,.cl-internal-bzdfjc{
+  border: 2px solid white;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel,
+.cl-internal-1jokxdd,
+.cl-internal-18msqv3 ,
+.cl-internal-zqxz1f  {
+  color: #ffffff;
+}
+.cl-internal-15vhvbx{
+  color: red;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 ,
+.cl-backLink {
+  color: #000000;
+}
+.cl-backLink:hover{
+  text-decoration: underline;
+  color: #000000;
+}
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: rgb(4, 0, 255);
+}
+.cl-formFieldInputShowPasswordButton{
+  background-color: #fb00ff00;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  color: #199ecf;
+}
+.cl-internal-1fy2g6e ,.cl-button {
+  background: #4c00ff;
+  box-shadow: 0 4px 30px #199ecf;
+
+}
+.cl-actionCard{
+   border: 1px solid #00DBDE;
+   box-shadow: none;
+}
+.cl-internal-hy4pb{
+  box-shadow:none;
+}
+.cl-button{
+  border: none;
+  color: #ffffff;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-button:hover,.cl-button:focus{
+  background: #4407d1b5;
+  box-shadow: 0 4px 40px #199ecf;
+  border: none;
+  color: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background: transparent;
+  box-shadow: 0 4px 40px #199ecf;
+  border: none;
+}
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv ,
+.cl-internal-1pgbyfm  {
+  color: #00DBDE ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+
+.cl-internal-1mwxfst{
+  accent-color: #4c00ff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+  box-shadow: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #4c00ffc7;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+```css
+  /* 8th complete */
+  .cl-signUp-root ,
+  .cl-internal-d5dzke ,
+  .cl-internal-bzdfjc,
+  .cl-signIn-root{
+  background-color: #1b1b1b;
+  background-size: cover;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  border: 1px solid #6f6f6f;
+  }
+  .cl-userPreview{
+    background-color: #1b1b1b;
+  }
+  
+  .cl-internal-195nssj {
+    border: 1.5px solid #ffffff; 
+  }
+  .cl-internal-mg5k16 .bg-white ,
+  .cl-internal-bzdfjc{
+    border: 2px solid #ffffff;
+    background-color: transparent;
+  }
+  .cl-internal-1b2ebjn ,
+  .cl-internal-13lvar6 {
+    background: transparent;
+  }
+  .cl-internal-1b2ebjn ,
+  .cl-internal-13lvar6 {
+    background: transparent;
+  }
+  .cl-internal-bzdfjc {
+    border: none;
+  }
+  .cl-dividerLine{
+    background: #ffffff;
+  }
+  .cl-internal-3jqw6b{
+    background-color: #262626;
+    box-shadow: none;
+      border: 2px solid #262626;
+  }
+  .cl-socialButtonsBlockButton,
+  .cl-otpCodeFieldInput ,.cl-button{
+    background-color: #262626;
+    box-shadow: none;
+      border: 2px solid #262626;
+  }
+  
+  .cl-formFieldInputShowPasswordButton{
+    border: none;
+    background: transparent;
+    box-shadow: none;
+  }
+  .cl-formFieldInputShowPasswordButton:hover{
+    background: transparent;
+  
+  }
+  .cl-internal-1mwxfst{
+    accent-color: #efefef;
+  }
+  .cl-userButtonTrigger{
+    box-shadow: none;
+  }
+  .cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+    color: #ffffff;
+  }
+  .cl-button:hover{
+    color: #ffffff;
+  }
+  .cl-socialButtonsBlockButton:hover{
+    transition: all 0.3s ease-in;
+    background:transparent;
+  }
+  
+  .cl-internal-xpydm8,
+  .cl-internal-1k60c9o,
+  .cl-internal-3f8jnx ,
+  .cl-formFieldRadioLabelTitle{
+    color: #ffffff;
+  }
+  .cl-menuItem:hover{
+    background: #6c6c6c;
+  }
+  .cl-backLink, 
+  .cl-internal-1y71s3o ,
+  .cl-internal-1jokxdd ,
+  .cl-userPreviewSecondaryIdentifier ,
+  .cl-internal-s825v9
+  .cl-internal-1agciv4,
+  .cl-internal-n0yayv
+  ,.cl-profileSectionTitleText {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .cl-internal-pp7u0o{
+    display: none;
+  }
+  
+  .cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+    text-decoration: underline;
+    color: #004cff;
+  }
+  .cl-headerSubtitle,
+  .cl-headerTitle,
+  .cl-socialButtonsBlockButtonText,
+  .cl-dividerText,
+  .cl-formFieldLabel ,
+  .cl-footerActionText{
+    color: #ffffff;
+  }
+  .cl-internal-17jfncx ,
+  .cl-internal-1fsy72e {
+    box-shadow: 0 0 0;
+      border: 0;
+  }
+  .cl-formFieldInput{
+   color: #ffffff;
+  }
+  
+  .cl-internal-1e86so8 ,
+  .cl-internal-csc3r5 {
+    letter-spacing: 2px;
+    color: #004cff;
+  }
+  
+  .cl-internal-1e86so8:hover ,
+  .cl-internal-1e86so8:focus{
+    color: #004cffab;
+  }
+  
+  .cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+    background-color: #004cff;
+    box-shadow: none;
+      border: none;
+  }
+  .cl-internal-1fy2g6e:hover ,.cl-internal-6ni1dv:hover{
+    transition: all 0.3s ease-in;
+    background-color: #004cffc5;
+  }
+  
+  .cl-internal-1dauvpw,
+  .cl-internal-1hp5nqm {
+    display: none;
+  }
+  .cl-signUp-start ,
+  .cl-signIn-start {
+    background: transparent;
+  }
+  .cl-footer ,
+  .cl-internal-617r0v ,
+  .cl-internal-162hn3d ,
+  .cl-identityPreviewText{
+   background: transparent;
+  }
+  .cl-identityPreviewText{
+    color: #004cff;
+    background: #212121;
+  }
+  .cl-otpCodeFieldInput{
+    color: #ffffff;
+  }
+  .cl-actionCard{
+    border: none;
+    box-shadow: none;
+    background: #262626;
+  }
+  .cl-userButtonPopoverActionButton:hover{
+    color: white;
+  }
+  .cl-internal-1fsy72e ,
+  .cl-internal-1338bh3 ,
+  .cl-internal-10vqj2v{
+    background: rgba(255, 255, 255, 0.2) ;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  .cl-internal-1fsy72e:hover ,
+  .cl-internal-1fsy72e:focus ,
+  .cl-internal-1338bh3:hover ,
+  .cl-internal-1338bh3:focus,
+  .cl-internal-10vqj2v:focus ,
+  .cl-internal-10vqj2v:hover,
+  .cl-internal-1338bh3 ,
+  .cl-internal-10vqj2v{
+    box-shadow: 0 0 0 ;
+    border: 0;
+    outline: 0;
+  }
+  .cl-internal-1jcsuiw ,
+  .cl-internal-178xxbv  {
+    color: #ffffff ;
+  }
+  
+  .cl-internal-1hp5nqm,
+  .cl-internal-df7v37{
+    display: none;
+  }
+  .cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+    background: transparent;
+  }
+  
+  @media (max-width: 768px) {
+    .cl-internal-k7p5wl{
+      background: #262626;
+    }
+  }
+  .cl-internal-13u79ez{
+    display: none;
+  }
+```
+
+```css
+/* 9th complete  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background: linear-gradient(to bottom, #121FCF 0%, #CF1512 100%);
+background-size: cover;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+border: 1px solid #ffffff9b;
+}
+.cl-userPreview{
+  background: linear-gradient(to bottom, #121FCF 0%, #CF1512 100%);
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #004cffa3;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffa3;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #004cff;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #004cff;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #004cff;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #004cffab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #004cff;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffc5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #004cff;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: linear-gradient(to bottom, #121FCF 0%, #CF1512 100%);
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css
+   /* 10th complete  */
+   .cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1012%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M-93.67 342.35 a164.52 164.52 0 1 0 329.04 0 a164.52 164.52 0 1 0 -329.04 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M630.84 230.67 a136.78 136.78 0 1 0 273.56 0 a136.78 136.78 0 1 0 -273.56 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1140.15 553.72 a115.24 115.24 0 1 0 230.48 0 a115.24 115.24 0 1 0 -230.48 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1246.82 86.76 a140.45 140.45 0 1 0 280.9 0 a140.45 140.45 0 1 0 -280.9 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M46.42 345.79 a127.23 127.23 0 1 0 254.46 0 a127.23 127.23 0 1 0 -254.46 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M208.802%2c169.464C237.905%2c168.169%2c261.382%2c146.971%2c274.26%2c120.84C285.694%2c97.638%2c281.755%2c70.789%2c268.324%2c48.683C255.46%2c27.51%2c233.54%2c14.459%2c208.802%2c13.103C181.192%2c11.59%2c152.183%2c18.5%2c136.795%2c41.474C119.739%2c66.939%2c117.387%2c100.437%2c132.415%2c127.149C147.712%2c154.339%2c177.635%2c170.85%2c208.802%2c169.464' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M588.8897683302047 211.17139243985682L497.8230438062126 225.59494463577803 564.9917343620905 354.9832553238055z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1113.672%2c424.174C1154.249%2c424.399%2c1187.936%2c393.757%2c1205.325%2c357.094C1220.491%2c325.118%2c1209.084%2c289.947%2c1192.045%2c258.929C1174.12%2c226.296%2c1150.873%2c191.751%2c1113.672%2c190.242C1074.626%2c188.659%2c1042.083%2c217.739%2c1023.458%2c252.093C1005.75%2c284.757%2c1006.507%2c323.182%2c1023.759%2c356.089C1042.468%2c391.775%2c1073.38%2c423.951%2c1113.672%2c424.174' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M853.006%2c178.329C874.969%2c176.718%2c895.269%2c166.919%2c906.737%2c148.119C918.724%2c128.468%2c921.254%2c104.246%2c910.662%2c83.81C899.185%2c61.667%2c877.946%2c44.377%2c853.006%2c44.453C828.173%2c44.529%2c808.974%2c63.012%2c795.957%2c84.16C782.095%2c106.68%2c769.935%2c134.53%2c783.637%2c157.148C797.064%2c179.311%2c827.162%2c180.225%2c853.006%2c178.329' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1012'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+background-size: cover;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+border: 1px solid #ffffff9b;
+}
+.cl-userPreview{
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1012%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M-93.67 342.35 a164.52 164.52 0 1 0 329.04 0 a164.52 164.52 0 1 0 -329.04 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M630.84 230.67 a136.78 136.78 0 1 0 273.56 0 a136.78 136.78 0 1 0 -273.56 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1140.15 553.72 a115.24 115.24 0 1 0 230.48 0 a115.24 115.24 0 1 0 -230.48 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1246.82 86.76 a140.45 140.45 0 1 0 280.9 0 a140.45 140.45 0 1 0 -280.9 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M46.42 345.79 a127.23 127.23 0 1 0 254.46 0 a127.23 127.23 0 1 0 -254.46 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M208.802%2c169.464C237.905%2c168.169%2c261.382%2c146.971%2c274.26%2c120.84C285.694%2c97.638%2c281.755%2c70.789%2c268.324%2c48.683C255.46%2c27.51%2c233.54%2c14.459%2c208.802%2c13.103C181.192%2c11.59%2c152.183%2c18.5%2c136.795%2c41.474C119.739%2c66.939%2c117.387%2c100.437%2c132.415%2c127.149C147.712%2c154.339%2c177.635%2c170.85%2c208.802%2c169.464' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M588.8897683302047 211.17139243985682L497.8230438062126 225.59494463577803 564.9917343620905 354.9832553238055z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1113.672%2c424.174C1154.249%2c424.399%2c1187.936%2c393.757%2c1205.325%2c357.094C1220.491%2c325.118%2c1209.084%2c289.947%2c1192.045%2c258.929C1174.12%2c226.296%2c1150.873%2c191.751%2c1113.672%2c190.242C1074.626%2c188.659%2c1042.083%2c217.739%2c1023.458%2c252.093C1005.75%2c284.757%2c1006.507%2c323.182%2c1023.759%2c356.089C1042.468%2c391.775%2c1073.38%2c423.951%2c1113.672%2c424.174' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M853.006%2c178.329C874.969%2c176.718%2c895.269%2c166.919%2c906.737%2c148.119C918.724%2c128.468%2c921.254%2c104.246%2c910.662%2c83.81C899.185%2c61.667%2c877.946%2c44.377%2c853.006%2c44.453C828.173%2c44.529%2c808.974%2c63.012%2c795.957%2c84.16C782.095%2c106.68%2c769.935%2c134.53%2c783.637%2c157.148C797.064%2c179.311%2c827.162%2c180.225%2c853.006%2c178.329' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1012'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #004cffa3;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffa3;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #004cff;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #004cff;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #004cff;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #004cffab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #004cff;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffc5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #004cff;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: linear-gradient(to bottom, #0e2a47 0%, #143a63 100%);
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+
+```
+
+```css
+/* 11th complete  */.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background: radial-gradient(100% 225% at 100% 0%, #FF0000 0%, #000000 100%), linear-gradient(236deg, #00C2FF 0%, #000000 100%), linear-gradient(135deg, #CDFFEB 0%, #CDFFEB 36%, #009F9D 36%, #009F9D 60%, #07456F 60%, #07456F 67%, #0F0A3C 67%, #0F0A3C 100%);
+background-blend-mode: overlay, hard-light, normal;
+background-size: cover;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+border: 1px solid #ffffff9b;
+}
+.cl-userPreview{
+  background: radial-gradient(100% 225% at 100% 0%, #FF0000 0%, #000000 100%), linear-gradient(236deg, #00C2FF 0%, #000000 100%), linear-gradient(135deg, #CDFFEB 0%, #CDFFEB 36%, #009F9D 36%, #009F9D 60%, #07456F 60%, #07456F 67%, #0F0A3C 67%, #0F0A3C 100%);
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #004cffa3;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffa3;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #004cff;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+   color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #004cff;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #004cff;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #004cffab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #004cff;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffc5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #004cff;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: linear-gradient(to bottom, #00ffe7 0%, #00009d 100%);
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css
+ /* 12th complete   */
+ .cl-signUp-root ,
+ .cl-internal-d5dzke ,
+ .cl-internal-bzdfjc,
+ .cl-signIn-root{
+   background: linear-gradient(120deg, #FF0000 0%, #2400FF 100%), linear-gradient(120deg, #FA00FF 0%, #208200 100%), linear-gradient(130deg, #00F0FF 0%, #000000 100%), radial-gradient(110% 140% at 15% 90%, #ffffff 0%, #1700A4 100%), radial-gradient(100% 100% at 50% 0%, #AD00FF 0%, #00FFE0 100%), radial-gradient(100% 100% at 50% 0%, #00FFE0 0%, #7300A9 80%), linear-gradient(30deg, #7ca304 0%, #2200AA 100%);
+   background-blend-mode: overlay, color, overlay, difference, color-dodge, difference, normal;
+ background-size: cover;
+ border-radius: 16px;
+ box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+ border: 1px solid #ffffff9b;
+ }
+ .cl-userPreview{
+  background: linear-gradient(120deg, #FF0000 0%, #2400FF 100%), linear-gradient(120deg, #FA00FF 0%, #208200 100%), linear-gradient(130deg, #00F0FF 0%, #000000 100%), radial-gradient(110% 140% at 15% 90%, #ffffff 0%, #1700A4 100%), radial-gradient(100% 100% at 50% 0%, #AD00FF 0%, #00FFE0 100%), radial-gradient(100% 100% at 50% 0%, #00FFE0 0%, #7300A9 80%), linear-gradient(30deg, #7ca304 0%, #2200AA 100%);
+   background-blend-mode: overlay, color, overlay, difference, color-dodge, difference, normal;}
+ 
+ .cl-internal-195nssj {
+   border: 1.5px solid #ffffff; 
+ }
+ .cl-internal-mg5k16 .bg-white ,
+ .cl-internal-bzdfjc{
+   border: 2px solid #ffffff;
+   background-color: transparent;
+ }
+ .cl-internal-1b2ebjn ,
+ .cl-internal-13lvar6 {
+   background: transparent;
+ }
+ .cl-internal-1b2ebjn ,
+ .cl-internal-13lvar6 {
+   background: transparent;
+ }
+ .cl-internal-bzdfjc {
+   border: none;
+ }
+ .cl-dividerLine{
+   background: #ffffff;
+ }
+ .cl-internal-3jqw6b{
+   background-color: transparent;
+   box-shadow: none;
+     border: 1px solid #ffffff9b;
+ }
+ .cl-socialButtonsBlockButton,
+ .cl-otpCodeFieldInput ,.cl-button{
+   background-color: #e80074;
+   box-shadow: none;
+     border: 1px solid #ffffff9b;
+ }
+ .cl-formFieldInputShowPasswordButton{
+   border: none;
+   background: transparent;
+   box-shadow: none;
+ }
+ .cl-formFieldInputShowPasswordButton:hover{
+   background: transparent;
+ 
+ }
+ .cl-internal-1mwxfst{
+   accent-color: #efefef;
+ }
+ .cl-userButtonTrigger{
+   box-shadow: none;
+ }
+ .cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+   color: #ffffff;
+ }
+ .cl-userButtonPopoverActionButton{
+   background: transparent;
+ }
+ .cl-button:hover ,.cl-button:focus{
+   color: #ffffff;
+   box-shadow: none;
+ }
+ .cl-socialButtonsBlockButton:hover{
+   transition: all 0.3s ease-in;
+   background-color: #e80074;
+ }
+ 
+ .cl-internal-xpydm8,
+ .cl-internal-1k60c9o,
+ .cl-internal-3f8jnx ,
+ .cl-formFieldRadioLabelTitle{
+   color: #ffffff;
+ }
+ .cl-menuItem:hover{
+   background: #e80074;
+ }
+ .cl-backLink, 
+ .cl-internal-1y71s3o ,
+ .cl-internal-1jokxdd ,
+ .cl-userPreviewSecondaryIdentifier ,
+ .cl-internal-s825v9
+ .cl-internal-1agciv4,
+ .cl-internal-n0yayv
+ ,.cl-profileSectionTitleText {
+   color: #ffffff;
+   text-decoration: none;
+ }
+ .cl-internal-pp7u0o{
+   color: #ffffff;
+ }
+ .cl-internal-hy4pby{
+   box-shadow: none;
+   border: 1px solid #ffffff9b;
+ }
+ .cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+   text-decoration: underline;
+   color: #010101;
+ }
+ .cl-headerSubtitle,
+ .cl-headerTitle,
+ .cl-socialButtonsBlockButtonText,
+ .cl-dividerText,
+ .cl-formFieldLabel ,
+ .cl-footerActionText{
+   color: #ffffff;
+ }
+ .cl-internal-17jfncx ,
+ .cl-internal-1fsy72e {
+   box-shadow: 0 0 0;
+     border: 0;
+ }
+ .cl-formFieldInput{
+  color: #ffffff;
+  
+ }
+ 
+ .cl-internal-1e86so8 ,
+ .cl-internal-csc3r5 {
+   letter-spacing: 2px;
+   color: #e80074;
+ }
+ 
+ .cl-internal-1e86so8:hover ,
+ .cl-internal-1e86so8:focus{
+   color: #e80074ab;
+ }
+ 
+ .cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+   background-color: #e80074;
+   box-shadow: none;
+     border: none;
+ }
+ .cl-internal-1fy2g6e:hover ,
+ .cl-internal-6ni1dv:hover{
+   transition: all 0.3s ease-in;
+   background-color: #e80074c5;
+ }
+ 
+ .cl-internal-1dauvpw,
+ .cl-internal-1hp5nqm {
+   display: none;
+ }
+ .cl-signUp-start ,
+ .cl-signIn-start {
+   background: transparent;
+ }
+ .cl-footer ,
+ .cl-internal-617r0v ,
+ .cl-internal-162hn3d ,
+ .cl-identityPreviewText{
+  background: transparent;
+ }
+ .cl-identityPreviewText{
+   color: #e80074;
+ }
+ .cl-formResendCodeLink{
+   background: transparent;
+   border: none;
+ }
+ .cl-otpCodeFieldInput{
+   color: #ffffff;
+   background-color: transparent;
+ }
+ 
+ .cl-identityPreviewEditButton {
+   color: white;
+ }
+ .cl-userPreview{
+   background: transparent;
+ }
+ .cl-internal-1fsy72e ,
+ .cl-internal-1338bh3 ,
+ .cl-internal-10vqj2v{
+   background: rgba(255, 255, 255, 0.2) ;
+   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+   backdrop-filter: blur(5px);
+   -webkit-backdrop-filter: blur(5px);
+   border: 1px solid rgba(255, 255, 255, 0.3);
+ }
+ .cl-internal-1fsy72e:hover ,
+ .cl-internal-1fsy72e:focus ,
+ .cl-internal-1338bh3:hover ,
+ .cl-internal-1338bh3:focus,
+ .cl-internal-10vqj2v:focus ,
+ .cl-internal-10vqj2v:hover,
+ .cl-internal-1338bh3 ,
+ .cl-internal-10vqj2v{
+   box-shadow: 0 0 0 ;
+   border: 0;
+   outline: 0;
+ }
+ .cl-internal-1jcsuiw ,
+ .cl-internal-178xxbv  {
+   color: #ffffff ;
+ }
+ 
+ .cl-internal-1hp5nqm,
+ .cl-internal-df7v37{
+   display: none;
+ }
+ .cl-menuList{
+   box-shadow: none;
+   border: 1px solid white;
+ }
+ .cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+   background: transparent;
+ }
+ 
+ @media (max-width: 768px) {
+   .cl-internal-k7p5wl{
+     background: linear-gradient(120deg, #FF0000 0%, #2400FF 100%), linear-gradient(120deg, #FA00FF 0%, #208200 100%), linear-gradient(130deg, #00F0FF 0%, #000000 100%), radial-gradient(110% 140% at 15% 90%, #ffffff 0%, #1700A4 100%), radial-gradient(100% 100% at 50% 0%, #AD00FF 0%, #00FFE0 100%), radial-gradient(100% 100% at 50% 0%, #00FFE0 0%, #7300A9 80%), linear-gradient(30deg, #7ca304 0%, #2200AA 100%);
+     background-blend-mode: overlay, color, overlay, difference, color-dodge, difference, normal;
+   }
+ }
+ .cl-internal-13u79ez{
+   display: none;
+ }
+```
+
+```css
+  /* 13th complete  */
+  .cl-signUp-root ,
+  .cl-internal-d5dzke ,
+  .cl-internal-bzdfjc,
+  .cl-signIn-root{
+    background: linear-gradient(121.28deg, #31BC00 0%, #000000 100%), linear-gradient(180deg, #5200FF 0%, #1A0050 100%), linear-gradient(341.1deg, #FF0000 7.52%, #1700A4 77.98%), radial-gradient(49.82% 80.51% at 49.82% 50%, #5A0069 0%, #FF3D00 100%), radial-gradient(50% 72.12% at 50% 50%, #EB00FF 0%, #110055 100%);
+    background-blend-mode: color-dodge, overlay, difference, difference, normal;
+  background-size: cover;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  border: 1px solid #ffffff9b;
+  }
+  .cl-userPreview{
+    background: linear-gradient(121.28deg, #31BC00 0%, #000000 100%), linear-gradient(180deg, #5200FF 0%, #1A0050 100%), linear-gradient(341.1deg, #FF0000 7.52%, #1700A4 77.98%), radial-gradient(49.82% 80.51% at 49.82% 50%, #5A0069 0%, #FF3D00 100%), radial-gradient(50% 72.12% at 50% 50%, #EB00FF 0%, #110055 100%);
+    background-blend-mode: color-dodge, overlay, difference, difference, normal;
+  }
+  
+  
+  .cl-internal-195nssj {
+    border: 1.5px solid #ffffff; 
+  }
+  .cl-internal-mg5k16 .bg-white ,
+  .cl-internal-bzdfjc{
+    border: 2px solid #ffffff;
+    background-color: transparent;
+  }
+  .cl-internal-1b2ebjn ,
+  .cl-internal-13lvar6 {
+    background: transparent;
+  }
+  .cl-internal-1b2ebjn ,
+  .cl-internal-13lvar6 {
+    background: transparent;
+  }
+  .cl-internal-bzdfjc {
+    border: none;
+  }
+  .cl-dividerLine{
+    background: #ffffff;
+  }
+  .cl-internal-3jqw6b{
+    background-color: transparent;
+    box-shadow: none;
+      border: 1px solid #ffffff9b;
+  }
+  .cl-socialButtonsBlockButton,
+  .cl-otpCodeFieldInput ,.cl-button{
+    background-color: #e80074;
+    box-shadow: none;
+      border: 1px solid #ffffff9b;
+  }
+  .cl-formFieldInputShowPasswordButton{
+    border: none;
+    background: transparent;
+    box-shadow: none;
+  }
+  .cl-formFieldInputShowPasswordButton:hover{
+    background: transparent;
+  
+  }
+  .cl-internal-1mwxfst{
+    accent-color: #efefef;
+  }
+  .cl-userButtonTrigger{
+    box-shadow: none;
+  }
+  .cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+    color: #ffffff;
+  }
+  .cl-userButtonPopoverActionButton{
+    background: transparent;
+  }
+  .cl-button:hover ,.cl-button:focus{
+    color: #ffffff;
+    box-shadow: none;
+  }
+  .cl-socialButtonsBlockButton:hover{
+    transition: all 0.3s ease-in;
+    background-color: #e80074;
+  }
+  
+  .cl-internal-xpydm8,
+  .cl-internal-1k60c9o,
+  .cl-internal-3f8jnx ,
+  .cl-formFieldRadioLabelTitle{
+    color: #ffffff;
+  }
+  .cl-menuItem:hover{
+    background: #e80074;
+  }
+  .cl-backLink, 
+  .cl-internal-1y71s3o ,
+  .cl-internal-1jokxdd ,
+  .cl-userPreviewSecondaryIdentifier ,
+  .cl-internal-s825v9
+  .cl-internal-1agciv4,
+  .cl-internal-n0yayv
+  ,.cl-profileSectionTitleText {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .cl-internal-pp7u0o{
+    color: #ffffff;
+  }
+  .cl-internal-hy4pby{
+    box-shadow: none;
+    border: 1px solid #ffffff9b;
+  }
+  .cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+    text-decoration: underline;
+    color: #e80074;
+  }
+  .cl-headerSubtitle,
+  .cl-headerTitle,
+  .cl-socialButtonsBlockButtonText,
+  .cl-dividerText,
+  .cl-formFieldLabel ,
+  .cl-footerActionText{
+    color: #ffffff;
+  }
+  .cl-internal-17jfncx ,
+  .cl-internal-1fsy72e {
+    box-shadow: 0 0 0;
+      border: 0;
+  }
+  .cl-formFieldInput{
+   color: #ffffff;
+   
+  }
+  
+  .cl-internal-1e86so8 ,
+  .cl-internal-csc3r5 {
+    letter-spacing: 2px;
+    color: #e80074;
+  }
+  
+  .cl-internal-1e86so8:hover ,
+  .cl-internal-1e86so8:focus{
+    color: #e80074ab;
+  }
+  
+  .cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+    background-color: #e80074;
+    box-shadow: none;
+      border: none;
+  }
+  .cl-internal-1fy2g6e:hover ,
+  .cl-internal-6ni1dv:hover{
+    transition: all 0.3s ease-in;
+    background-color: #e80074c5;
+  }
+  
+  .cl-internal-1dauvpw,
+  .cl-internal-1hp5nqm {
+    display: none;
+  }
+  .cl-signUp-start ,
+  .cl-signIn-start {
+    background: transparent;
+  }
+  .cl-footer ,
+  .cl-internal-617r0v ,
+  .cl-internal-162hn3d ,
+  .cl-identityPreviewText{
+   background: transparent;
+  }
+  .cl-identityPreviewText{
+    color: #e80074;
+  }
+  .cl-formResendCodeLink{
+    background: transparent;
+    border: none;
+  }
+  .cl-otpCodeFieldInput{
+    color: #ffffff;
+    background-color: transparent;
+  }
+  
+  .cl-identityPreviewEditButton {
+    color: white;
+  }
+  .cl-userPreview{
+    background: transparent;
+  }
+  .cl-internal-1fsy72e ,
+  .cl-internal-1338bh3 ,
+  .cl-internal-10vqj2v{
+    background: rgba(255, 255, 255, 0.2) ;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  .cl-internal-1fsy72e:hover ,
+  .cl-internal-1fsy72e:focus ,
+  .cl-internal-1338bh3:hover ,
+  .cl-internal-1338bh3:focus,
+  .cl-internal-10vqj2v:focus ,
+  .cl-internal-10vqj2v:hover,
+  .cl-internal-1338bh3 ,
+  .cl-internal-10vqj2v{
+    box-shadow: 0 0 0 ;
+    border: 0;
+    outline: 0;
+  }
+  .cl-internal-1jcsuiw ,
+  .cl-internal-178xxbv  {
+    color: #ffffff ;
+  }
+  
+  .cl-internal-1hp5nqm,
+  .cl-internal-df7v37{
+    display: none;
+  }
+  .cl-menuList{
+    box-shadow: none;
+    border: 1px solid white;
+  }
+  .cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+    background: transparent;
+  }
+  
+  @media (max-width: 768px) {
+    .cl-internal-k7p5wl{
+      background: linear-gradient(121.28deg, #31BC00 0%, #000000 100%), linear-gradient(180deg, #5200FF 0%, #1A0050 100%), linear-gradient(341.1deg, #FF0000 7.52%, #1700A4 77.98%), radial-gradient(49.82% 80.51% at 49.82% 50%, #5A0069 0%, #FF3D00 100%), radial-gradient(50% 72.12% at 50% 50%, #EB00FF 0%, #110055 100%);
+      background-blend-mode: color-dodge, overlay, difference, difference, normal;
+    }
+  }
+  .cl-internal-13u79ez{
+    display: none;
+  }
+  
+```
+
+```css
+ /* 14th complete  */
+ .cl-signUp-root ,
+ .cl-internal-d5dzke ,
+ .cl-internal-bzdfjc,
+ .cl-signIn-root{
+  background-image: url(https://img.freepik.com/free-vector/aesthetic-dreamy-background-purple-cloudy-sky-vector-glitter-design_53876-156334.jpg);
+ background-size: cover;
+ border-radius: 16px;
+ box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+ border: 1px solid #ffffff9b;
+ }
+ .cl-userPreview{
+   background-image: url(https://img.freepik.com/free-vector/aesthetic-dreamy-background-purple-cloudy-sky-vector-glitter-design_53876-156334.jpg);
+ }
+ 
+ .cl-internal-195nssj {
+   border: 1.5px solid #ffffff; 
+ }
+ .cl-internal-mg5k16 .bg-white ,
+ .cl-internal-bzdfjc{
+   border: 2px solid #ffffff;
+   background-color: transparent;
+ }
+ .cl-internal-1b2ebjn ,
+ .cl-internal-13lvar6 {
+   background: transparent;
+ }
+ .cl-internal-1b2ebjn ,
+ .cl-internal-13lvar6 {
+   background: transparent;
+ }
+ .cl-internal-bzdfjc {
+   border: none;
+ }
+ .cl-dividerLine{
+   background: #ffffff;
+ }
+ .cl-internal-3jqw6b{
+   background-color: transparent;
+   box-shadow: none;
+     border: 1px solid #ffffff9b;
+ }
+ .cl-socialButtonsBlockButton,
+ .cl-otpCodeFieldInput ,.cl-button{
+   background-color: #a785dc;
+   box-shadow: none;
+     border: 1px solid #ffffff9b;
+ }
+ .cl-formFieldInputShowPasswordButton{
+   border: none;
+   background: transparent;
+   box-shadow: none;
+ }
+ .cl-formFieldInputShowPasswordButton:hover{
+   background: transparent;
+ 
+ }
+ .cl-internal-1mwxfst{
+   accent-color: #efefef;
+ }
+ .cl-userButtonTrigger{
+   box-shadow: none;
+ }
+ .cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+   color: #ffffff;
+ }
+ .cl-userButtonPopoverActionButton{
+   background: transparent;
+ }
+ .cl-button:hover ,.cl-button:focus{
+   color: #ffffff;
+   box-shadow: none;
+ }
+ .cl-socialButtonsBlockButton:hover{
+   transition: all 0.3s ease-in;
+   background-color: #a785dc;
+ }
+ 
+ .cl-internal-xpydm8,
+ .cl-internal-1k60c9o,
+ .cl-internal-3f8jnx ,
+ .cl-formFieldRadioLabelTitle{
+   color: #ffffff;
+ }
+ .cl-menuItem:hover{
+   background: #a785dc;
+ }
+ .cl-backLink, 
+ .cl-internal-1y71s3o ,
+ .cl-internal-1jokxdd ,
+ .cl-userPreviewSecondaryIdentifier ,
+ .cl-internal-s825v9
+ .cl-internal-1agciv4,
+ .cl-internal-n0yayv
+ ,.cl-profileSectionTitleText {
+   color: #ffffff;
+   text-decoration: none;
+ }
+ .cl-internal-pp7u0o{
+   color: #ffffff;
+ }
+ .cl-internal-hy4pby{
+   box-shadow: none;
+   border: 1px solid #ffffff9b;
+ }
+ .cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+   text-decoration: underline;
+   color: #ff00aebb;
+ }
+ .cl-headerSubtitle,
+ .cl-headerTitle,
+ .cl-socialButtonsBlockButtonText,
+ .cl-dividerText,
+ .cl-formFieldLabel ,
+ .cl-footerActionText{
+   color: #ffffff;
+ }
+ .cl-internal-17jfncx ,
+ .cl-internal-1fsy72e {
+   box-shadow: 0 0 0;
+     border: 0;
+ }
+ .cl-formFieldInput{
+  color: #ffffff;
+  
+ }
+ 
+ .cl-internal-1e86so8 ,
+ .cl-internal-csc3r5 {
+   letter-spacing: 2px;
+   color: #a785dc;
+ }
+ 
+ .cl-internal-1e86so8:hover ,
+ .cl-internal-1e86so8:focus{
+   color: #a785dcab;
+ }
+ 
+ .cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+   background-color: #a785dc;
+   box-shadow: none;
+     border: none;
+ }
+ .cl-internal-1fy2g6e:hover ,
+ .cl-internal-6ni1dv:hover{
+   transition: all 0.3s ease-in;
+   background-color: #a785dcc5;
+ }
+ 
+ .cl-internal-1dauvpw,
+ .cl-internal-1hp5nqm {
+   display: none;
+ }
+ .cl-signUp-start ,
+ .cl-signIn-start {
+   background: transparent;
+ }
+ .cl-footer ,
+ .cl-internal-617r0v ,
+ .cl-internal-162hn3d ,
+ .cl-identityPreviewText{
+  background: transparent;
+ }
+ .cl-identityPreviewText{
+   color: #a785dc;
+ }
+ .cl-formResendCodeLink{
+   background: transparent;
+   border: none;
+   color: #fda9d9;
+ }
+ .cl-otpCodeFieldInput{
+   color: #ffffff;
+   background-color: transparent;
+ }
+ 
+ .cl-identityPreviewEditButton {
+   color: white;
+ }
+ .cl-userPreview{
+   background: transparent;
+ }
+ .cl-internal-1fsy72e ,
+ .cl-internal-1338bh3 ,
+ .cl-internal-10vqj2v{
+   background: rgba(255, 255, 255, 0.2) ;
+   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+   backdrop-filter: blur(5px);
+   -webkit-backdrop-filter: blur(5px);
+   border: 1px solid rgba(255, 255, 255, 0.3);
+ }
+ .cl-internal-1fsy72e:hover ,
+ .cl-internal-1fsy72e:focus ,
+ .cl-internal-1338bh3:hover ,
+ .cl-internal-1338bh3:focus,
+ .cl-internal-10vqj2v:focus ,
+ .cl-internal-10vqj2v:hover,
+ .cl-internal-1338bh3 ,
+ .cl-internal-10vqj2v{
+   box-shadow: 0 0 0 ;
+   border: 0;
+   outline: 0;
+ }
+ .cl-internal-1jcsuiw ,
+ .cl-internal-178xxbv  {
+   color: #ffffff ;
+ }
+ 
+ .cl-internal-1hp5nqm,
+ .cl-internal-df7v37{
+   display: none;
+ }
+ .cl-menuList{
+   box-shadow: none;
+   border: 1px solid white;
+ }
+ .cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+   background: transparent;
+ }
+ 
+ @media (max-width: 768px) {
+   .cl-internal-k7p5wl{
+     background:#9c77d2 ;
+   }
+ }
+ .cl-internal-13u79ez{
+   display: none;
+ }
+```
+
+```css
+/* 15th complete  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+ background-image: url(https://i.pinimg.com/originals/4e/de/5a/4ede5a33c5490195b2b17466ad26d124.gif);
+background-size: cover;
+background-position: center;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+border: 1px solid #ffffff9b;
+}
+.cl-userPreview{
+  background-image: url(https://i.pinimg.com/originals/4e/de/5a/4ede5a33c5490195b2b17466ad26d124.gif);
+}
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background: #a785dc;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #a785dc;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #a785dc;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #a785dc;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  background: #a785dc;
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #ff00aebb;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #a785dc;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #a785dcab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #a785dc;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #a785dcc5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #a785dc;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+  color: #fda9d9;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background:#9c77d2 ;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css
+/* 16th complete */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+ background-image: url(https://steamuserimages-a.akamaihd.net/ugc/866241622021777365/9894657B47A0F44BFFB2673B7628C5CAF6CB35B4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+background-size: cover;
+background-position: center;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+border: 1px solid #ffffff9b;
+}
+.cl-userPreview{
+  background-image: url(https://steamuserimages-a.akamaihd.net/ugc/866241622021777365/9894657B47A0F44BFFB2673B7628C5CAF6CB35B4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #da22d2;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #da22d2;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #da22d2;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #19f0f2;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #19f0f2;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #19f0f2c0;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #da22d2;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #da22d2c5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #da22d2;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+  color: #fda9d9;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background:#da22d2;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+
+```
+
+```css
+/* 17th complete  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background-image: url(https://4kwallpapers.com/images/wallpapers/abstract-background-2048x2048-11615.png);
+  background-size: cover;
+  background-position: center;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+border: 1px solid #ffffff9b;
+}
+.cl-userPreview{
+  background-image: url(https://4kwallpapers.com/images/wallpapers/abstract-background-2048x2048-11615.png);
+}
+
+
+.cl-internal-195nssj {
+  border: 2px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #004cffa3;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffa3;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #004cff;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #004cff;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #004cff;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #004cffab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #004cff;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #004cffc5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #004cff;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #3d5dfc;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css
+  /* 18th complete  */
+  .cl-signUp-root ,
+  .cl-internal-d5dzke ,
+  .cl-internal-bzdfjc,
+  .cl-signIn-root{
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L2Rlc2lnbndpdGhtZTA5X3Bob3RvX3dhbGxwYXBlcl9vZl9jbG91ZHNfcHVycGxlX2dyYWRpZW50X2dsaXR0ZV9jYTNiNGY1Ny02ZDEwLTQ1MTQtOGY1Yy00ZTFhYTdjNDU1NWFfMS5qcGc.jpg);
+    background-size: cover;
+    background-position: center;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  border: 1px solid #ffffff9b;
+  }
+  .cl-userPreview{
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L2Rlc2lnbndpdGhtZTA5X3Bob3RvX3dhbGxwYXBlcl9vZl9jbG91ZHNfcHVycGxlX2dyYWRpZW50X2dsaXR0ZV9jYTNiNGY1Ny02ZDEwLTQ1MTQtOGY1Yy00ZTFhYTdjNDU1NWFfMS5qcGc.jpg);
+  }
+  
+  .cl-internal-195nssj {
+    border: 1.5px solid #ffffff; 
+  }
+  .cl-internal-mg5k16 .bg-white ,
+  .cl-internal-bzdfjc{
+    border: 2px solid #ffffff;
+    background-color: transparent;
+  }
+  .cl-internal-1b2ebjn ,
+  .cl-internal-13lvar6 {
+    background: transparent;
+  }
+  .cl-internal-1b2ebjn ,
+  .cl-internal-13lvar6 {
+    background: transparent;
+  }
+  .cl-internal-bzdfjc {
+    border: none;
+  }
+  .cl-dividerLine{
+    background: #ffffff;
+  }
+  .cl-internal-3jqw6b{
+    background-color: transparent;
+    box-shadow: none;
+      border: 1px solid #ffffff9b;
+  }
+  .cl-socialButtonsBlockButton,
+  .cl-otpCodeFieldInput ,.cl-button{
+    background-color: #170d2e;
+    box-shadow: none;
+      border: 1px solid #ffffff9b;
+  }
+  .cl-formFieldInputShowPasswordButton{
+    border: none;
+    background: transparent;
+    box-shadow: none;
+  }
+  .cl-formFieldInputShowPasswordButton:hover{
+    background: transparent;
+  
+  }
+  .cl-internal-1mwxfst{
+    accent-color: #efefef;
+  }
+  .cl-userButtonTrigger{
+    box-shadow: none;
+  }
+  .cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+    color: #ffffff;
+  }
+  .cl-userButtonPopoverActionButton{
+    background: transparent;
+  }
+  .cl-button:hover ,.cl-button:focus{
+    color: #ffffff;
+    box-shadow: none;
+  }
+  .cl-socialButtonsBlockButton:hover{
+    transition: all 0.3s ease-in;
+    background-color: #170d2e;
+  }
+  
+  .cl-internal-xpydm8,
+  .cl-internal-1k60c9o,
+  .cl-internal-3f8jnx ,
+  .cl-formFieldRadioLabelTitle{
+    color: #ffffff;
+  }
+  .cl-menuItem:hover{
+    background: #170d2e;
+  }
+  .cl-backLink, 
+  .cl-internal-1y71s3o ,
+  .cl-internal-1jokxdd ,
+  .cl-userPreviewSecondaryIdentifier ,
+  .cl-internal-s825v9
+  .cl-internal-1agciv4,
+  .cl-internal-n0yayv
+  ,.cl-profileSectionTitleText {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .cl-internal-pp7u0o{
+    color: #ffffff;
+  }
+  .cl-internal-hy4pby{
+    box-shadow: none;
+    border: 1px solid #ffffff9b;
+  }
+  .cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+    text-decoration: underline;
+    color: #170d2e;
+  }
+  .cl-headerSubtitle,
+  .cl-headerTitle,
+  .cl-socialButtonsBlockButtonText,
+  .cl-dividerText,
+  .cl-formFieldLabel ,
+  .cl-footerActionText{
+    color: #ffffff;
+  }
+  .cl-internal-17jfncx ,
+  .cl-internal-1fsy72e {
+    box-shadow: 0 0 0;
+      border: 0;
+  }
+  .cl-formFieldInput{
+   color: #ffffff;
+   
+  }
+  
+  .cl-internal-1e86so8 ,
+  .cl-internal-csc3r5 {
+    letter-spacing: 2px;
+    color: #170d2e;
+  }
+  
+  .cl-internal-1e86so8:hover ,
+  .cl-internal-1e86so8:focus{
+    color: #170d2eab;
+  }
+  
+  .cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+    background-color: #170d2e;
+    box-shadow: none;
+      border: none;
+  }
+  .cl-internal-1fy2g6e:hover ,
+  .cl-internal-6ni1dv:hover{
+    transition: all 0.3s ease-in;
+    background-color: #170d2ec5;
+  }
+  
+  .cl-internal-1dauvpw,
+  .cl-internal-1hp5nqm {
+    display: none;
+  }
+  .cl-signUp-start ,
+  .cl-signIn-start {
+    background: transparent;
+  }
+  .cl-footer ,
+  .cl-internal-617r0v ,
+  .cl-internal-162hn3d ,
+  .cl-identityPreviewText{
+   background: transparent;
+  }
+  .cl-identityPreviewText{
+    color: #170d2e;
+  }
+  .cl-formResendCodeLink{
+    background: transparent;
+    border: none;
+  }
+  .cl-otpCodeFieldInput{
+    color: #ffffff;
+    background-color: transparent;
+  }
+  
+  .cl-identityPreviewEditButton {
+    color: white;
+  }
+  .cl-userPreview{
+    background: transparent;
+  }
+  .cl-internal-1fsy72e ,
+  .cl-internal-1338bh3 ,
+  .cl-internal-10vqj2v{
+    background: rgba(255, 255, 255, 0.2) ;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  .cl-internal-1fsy72e:hover ,
+  .cl-internal-1fsy72e:focus ,
+  .cl-internal-1338bh3:hover ,
+  .cl-internal-1338bh3:focus,
+  .cl-internal-10vqj2v:focus ,
+  .cl-internal-10vqj2v:hover,
+  .cl-internal-1338bh3 ,
+  .cl-internal-10vqj2v{
+    box-shadow: 0 0 0 ;
+    border: 0;
+    outline: 0;
+  }
+  .cl-internal-1jcsuiw ,
+  .cl-internal-178xxbv  {
+    color: #ffffff ;
+  }
+  
+  .cl-internal-1hp5nqm,
+  .cl-internal-df7v37{
+    display: none;
+  }
+  .cl-menuList{
+    box-shadow: none;
+    border: 1px solid white;
+  }
+  .cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+    background: transparent;
+  }
+  
+  @media (max-width: 768px) {
+    .cl-internal-k7p5wl{
+      background: #09081d;
+    }
+  }
+  .cl-internal-13u79ez{
+    display: none;
+  }
+
+```
+```css 
+/* 19th complete  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background: linear-gradient(235deg, #BABC4A 0%, #000000 100%), linear-gradient(235deg, #0026AC 0%, #282534 100%), linear-gradient(235deg, #00FFD1 0%, #000000 100%), radial-gradient(120% 185% at 25% -25%, #EEEEEE 0%, #EEEEEE 40%, #7971EA calc(40% + 1px), #7971EA 50%, #393E46 calc(50% + 1px), #393E46 70%, #222831 calc(70% + 1px), #222831 100%), radial-gradient(70% 140% at 90% 10%, #F5F5C6 0%, #F5F5C6 30%, #7DA87B calc(30% + 1px), #7DA87B 60%, #326765 calc(60% + 1px), #326765 80%, #27253D calc(80% + 1px), #27253D 100%);
+  background-blend-mode: overlay, lighten, overlay, color-burn, normal;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+  background: linear-gradient(235deg, #BABC4A 0%, #000000 100%), linear-gradient(235deg, #0026AC 0%, #282534 100%), linear-gradient(235deg, #00FFD1 0%, #000000 100%), radial-gradient(120% 185% at 25% -25%, #EEEEEE 0%, #EEEEEE 40%, #7971EA calc(40% + 1px), #7971EA 50%, #393E46 calc(50% + 1px), #393E46 70%, #222831 calc(70% + 1px), #222831 100%), radial-gradient(70% 140% at 90% 10%, #F5F5C6 0%, #F5F5C6 30%, #7DA87B calc(30% + 1px), #7DA87B 60%, #326765 calc(60% + 1px), #326765 80%, #27253D calc(80% + 1px), #27253D 100%);
+  background-blend-mode: overlay, lighten, overlay, color-burn, normal;
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #80d300;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #80d300;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #80d300;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #80d300;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #80d300;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #80d300ab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #80d300;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #80d300c5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #80d300;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #80d300;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #80d300;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+```css
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background: linear-gradient(121.28deg, #DC8400 0%, #FFFFFF 40.08%), linear-gradient(140.54deg, #FF0000 0%, #0047FF 72.37%), linear-gradient(121.28deg, #00E384 0%, #FF0000 100%), linear-gradient(121.28deg, #FA00FF 0%, #00FF38 100%), linear-gradient(127.43deg, #00F0FF 0%, #A80000 100%), radial-gradient(100.47% 100% at 50% 100%, #70FF00 0%, #680199 100%), linear-gradient(127.43deg, #B7D500 0%, #2200AA 100%);
+  background-blend-mode: darken, hue, overlay, color, color-dodge, difference, normal;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+  background: linear-gradient(121.28deg, #DC8400 0%, #FFFFFF 40.08%), linear-gradient(140.54deg, #FF0000 0%, #0047FF 72.37%), linear-gradient(121.28deg, #00E384 0%, #FF0000 100%), linear-gradient(121.28deg, #FA00FF 0%, #00FF38 100%), linear-gradient(127.43deg, #00F0FF 0%, #A80000 100%), radial-gradient(100.47% 100% at 50% 100%, #70FF00 0%, #680199 100%), linear-gradient(127.43deg, #B7D500 0%, #2200AA 100%);
+  background-blend-mode: darken, hue, overlay, color, color-dodge, difference, normal;
+
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #f7adc3;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #f7adc3;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #f7adc3;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #f7adc3;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: #f7adc3;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: #f7adc3ab;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #f7adc3;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #f7adc3c5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #f7adc3;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #f7adc3;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #f7adc3;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css 
+/* 21th complete  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background-color: #ff7700;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23cc0000' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23aa0000' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23d6002b' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%23b10022' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23d9004b' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23b2003d' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23d3006c' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23ac0057' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23c4008c' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%239e0071' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23aa00aa' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23880088' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+  background-color: #ff7700;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23cc0000' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23aa0000' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23d6002b' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%23b10022' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23d9004b' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23b2003d' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23d3006c' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23ac0057' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23c4008c' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%239e0071' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23aa00aa' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23880088' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #b10022;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #b10022;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #b10022;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #b10022;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: white;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+color: white;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #b10022;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #b10022c5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #b10022;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #b10022;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #b10022;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+
+```css
+/* 22th complete */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background-image: url(https://cdn.dribbble.com/users/1770290/screenshots/6183149/bg_79.gif);
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+  background-image: url(https://cdn.dribbble.com/users/1770290/screenshots/6183149/bg_79.gif);
+  background-size: cover;
+  background-position: center;
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #b028b7;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #b028b7;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #b028b7;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #b028b7;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: white;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: white;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #b028b7;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #b028b7c5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #b028b7;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #b028b7;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #b028b7;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+
+
+```
+
+```css
+/* 23th complete  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background-image: url(https://i.pinimg.com/originals/74/68/40/74684007b3b7b34275f7a74247c26d4b.gif);
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+  background-image: url(https://i.pinimg.com/originals/74/68/40/74684007b3b7b34275f7a74247c26d4b.gif);
+  background-size: cover;
+  background-position: center;
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #000000;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #000000;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #000000;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: white;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: white;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #000000;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #000000c5;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #000000;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #000000;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #000000;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
+```css
+ /* 24th complete  */
+ .cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+  background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlxN2IzenpraGEzYXFyb2U3dnZmN2NvMXR6MTlpaG1wbXVyYmZociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3q3SUqPnxZGQpMNcjc/giphy.webp);
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+  background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlxN2IzenpraGEzYXFyb2U3dnZmN2NvMXR6MTlpaG1wbXVyYmZociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3q3SUqPnxZGQpMNcjc/giphy.webp);
+  background-size: cover;
+  background-position: center;
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #000000;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #000000;
+}
+.cl-userButtonPopoverActionButton:hover{
+  color: #ffffff;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #000000;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: white;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: white;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #97acc5;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #c3d1e3;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #ffffff;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #000000;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #000000;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+
+```
+
+```css
+/* 25 complete  */
+.cl-signUp-root ,
+.cl-internal-d5dzke ,
+.cl-internal-bzdfjc,
+.cl-signIn-root{
+background: linear-gradient(345deg, #FF0037, rgba(255,144,168,1));
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) ;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-userPreview{
+background: linear-gradient(345deg, #FF0037, rgba(255,144,168,1));
+}
+
+.cl-internal-195nssj {
+  border: 1.5px solid #ffffff; 
+}
+.cl-internal-mg5k16 .bg-white ,
+.cl-internal-bzdfjc{
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-1b2ebjn ,
+.cl-internal-13lvar6 {
+  background: transparent;
+}
+.cl-internal-bzdfjc {
+  border: none;
+}
+.cl-dividerLine{
+  background: #ffffff;
+}
+.cl-internal-3jqw6b{
+  background-color: transparent;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-socialButtonsBlockButton,
+.cl-otpCodeFieldInput ,.cl-button{
+  background-color: #000000;
+  box-shadow: none;
+    border: 1px solid #ffffff9b;
+}
+.cl-formFieldInputShowPasswordButton{
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+.cl-formFieldInputShowPasswordButton:hover{
+  background: transparent;
+
+}
+.cl-internal-1mwxfst{
+  accent-color: #efefef;
+}
+.cl-userButtonTrigger{
+  box-shadow: none;
+}
+.cl-button,.cl-internal-18msqv3,.cl-internal-zqxz1f{
+  color: #ffffff;
+}
+.cl-userButtonPopoverActionButton{
+  background: transparent;
+}
+.cl-button:hover ,.cl-button:focus{
+  color: #ffffff;
+  box-shadow: none;
+}
+.cl-socialButtonsBlockButton:hover{
+  transition: all 0.3s ease-in;
+  background-color: #000000;
+}
+.cl-userButtonPopoverActionButton:hover{
+  color: #ffffff;
+}
+
+.cl-internal-xpydm8,
+.cl-internal-1k60c9o,
+.cl-internal-3f8jnx ,
+.cl-formFieldRadioLabelTitle{
+  color: #ffffff;
+}
+.cl-menuItem:hover{
+  background: #000000;
+}
+.cl-backLink, 
+.cl-internal-1y71s3o ,
+.cl-internal-1jokxdd ,
+.cl-userPreviewSecondaryIdentifier ,
+.cl-internal-s825v9
+.cl-internal-1agciv4,
+.cl-internal-n0yayv
+,.cl-profileSectionTitleText {
+  color: #ffffff;
+  text-decoration: none;
+}
+.cl-internal-pp7u0o{
+  color: #ffffff;
+}
+.cl-internal-hy4pby{
+  box-shadow: none;
+  border: 1px solid #ffffff9b;
+}
+.cl-internal-d2hd6e:hover ,.cl-internal-s825v9:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+.cl-headerSubtitle,
+.cl-headerTitle,
+.cl-socialButtonsBlockButtonText,
+.cl-dividerText,
+.cl-formFieldLabel ,
+.cl-footerActionText{
+  color: #ffffff;
+}
+.cl-internal-17jfncx ,
+.cl-internal-1fsy72e {
+  box-shadow: 0 0 0;
+    border: 0;
+}
+.cl-formFieldInput{
+ color: #ffffff;
+ 
+}
+
+.cl-internal-1e86so8 ,
+.cl-internal-csc3r5 {
+  letter-spacing: 2px;
+  color: white;
+}
+
+.cl-internal-1e86so8:hover ,
+.cl-internal-1e86so8:focus{
+  color: white;
+}
+
+.cl-internal-1fy2g6e,.cl-internal-6ni1dv{
+  background-color: #000000;
+  box-shadow: none;
+    border: none;
+}
+.cl-internal-1fy2g6e:hover ,
+.cl-internal-6ni1dv:hover{
+  transition: all 0.3s ease-in;
+  background-color: #000000bb;
+}
+
+.cl-internal-1dauvpw,
+.cl-internal-1hp5nqm {
+  display: none;
+}
+.cl-signUp-start ,
+.cl-signIn-start {
+  background: transparent;
+}
+.cl-footer ,
+.cl-internal-617r0v ,
+.cl-internal-162hn3d ,
+.cl-identityPreviewText{
+ background: transparent;
+}
+.cl-identityPreviewText{
+  color: #ffffff;
+}
+.cl-formResendCodeLink{
+  background: transparent;
+  border: none;
+}
+.cl-otpCodeFieldInput{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.cl-identityPreviewEditButton {
+  color: white;
+}
+.cl-userPreview{
+  background: transparent;
+}
+.cl-internal-1fsy72e ,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  background: rgba(255, 255, 255, 0.2) ;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) IM;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.cl-internal-1fsy72e:hover ,
+.cl-internal-1fsy72e:focus ,
+.cl-internal-1338bh3:hover ,
+.cl-internal-1338bh3:focus,
+.cl-internal-10vqj2v:focus ,
+.cl-internal-10vqj2v:hover,
+.cl-internal-1338bh3 ,
+.cl-internal-10vqj2v{
+  box-shadow: 0 0 0 ;
+  border: 0;
+  outline: 0;
+}
+.cl-internal-1jcsuiw ,
+.cl-internal-178xxbv  {
+  color: #ffffff ;
+}
+
+.cl-internal-1hp5nqm,
+.cl-internal-df7v37{
+  display: none;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+.cl-internal-k7p5wl{
+  background-color: #000000;
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+.cl-menuList{
+  box-shadow: none;
+  border: 1px solid white;
+}
+.cl-navbarMobileMenuRow ,.cl-internal-k7p5wl{
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .cl-internal-k7p5wl{
+    background: #000000;
+  }
+}
+.cl-internal-13u79ez{
+  display: none;
+}
+```
