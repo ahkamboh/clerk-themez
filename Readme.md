@@ -27,13 +27,53 @@
 ```bash
  npm install @clerk/themes
 ```
-### Step 4: Must import this otherwise themes not work properly in your root directory.
+
+### Step 4: Create Sign-in Page (`src/app/(auth)/sign-in/[[...sign-in]]/page.tsx`):
+```tsx
+import { SignIn } from '@clerk/nextjs';
+import React from 'react';
+
+const SignInPage = () => {
+  return (
+    <main className="flex items-center justify-center min-h-screen relative ">
+      <SignIn />
+    </main>
+  );
+};
+```
+### Step 5: Create Sign-up Page (`src/app/(auth)/sign-up/[[...sign-up]]/page.tsx`):
+
+```tsx
+import { SignUp } from "@clerk/nextjs";
+import React from "react";
+
+const SignUpPage = () => {
+  return (
+    <main className="flex items-center justify-center min-h-screen relative sign-bg">
+      <SignUp />
+    </main>
+  );
+};
+
+export default SignUpPage;
+```
+### Step 6: Create `.env.local`:
+
+```bash
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=<add your key>
+CLERK_SECRET_KEY=<add your key>
+# That must add 
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+  ```
+
+### Step 7: Must import this otherwise themes not work properly in your root directory.
 
  ```tsx
    import { neobrutalism } from "@clerk/themes";
 ```
-
-### Step 5: Must add  `neobrutalism` and `variables: { colorPrimary: "#fa0053" },` this in your  `<ClerkProvider>` , in your root directory :
+ 
+### Step 8: Must add  `neobrutalism` and `variables: { colorPrimary: "#fa0053" },` this in your  `<ClerkProvider>` , in your root directory :
 
   ```tsx
       <ClerkProvider
@@ -48,12 +88,26 @@
     </ClerkProvider>
 ```
 
-### Step 6:  import theme in your root directory:
+### Step 9:  import theme in your root directory:
 
 ```tsx
   import 'clerk-themez/themes/<themename>.css'; 
 ```
+### Step 10: Create `middleware.ts or middleware.js` in root directory ( Example :`src/middleware.ts`(next.js)): 
+```tsx
+import { clerkMiddleware } from "@clerk/nextjs/server";
 
+export default clerkMiddleware();
+
+export const config = {
+  matcher: [
+    // Skip Next.js internals and all static files, unless found in search params
+    '/((?!_next|[^?]*\\.(?:html?|css|js(?!on)|jpe?g|webp|png|gif|svg|ttf|woff2?|ico|csv|docx?|xlsx?|zip|webmanifest)).*)',
+    // Always run for API routes
+    '/(api|trpc)(.*)',
+  ],
+};
+```
 
 ## Usage Example
 
@@ -102,44 +156,6 @@ By importing the theme in the root file (`layout.tsx` for Next.js), the styles w
 - Sign-in page
 - Sign-up page
 - User management sections (e.g., `UserButton`)
-
-### Next.js Clerk Auth Example:
-
-**Sign-in Page (`src/app/(auth)/sign-in/page.tsx`):**
-
-```tsx
-import { SignIn } from '@clerk/nextjs';
-import React from 'react';
-
-const SignInPage = () => {
-  return (
-    <main className="flex items-center justify-center min-h-screen relative sign-bg">
-      <SignIn />
-    </main>
-  );
-};
-
-export default SignInPage;
-```
-
-**Sign-up Page (`src/app/(auth)/sign-up/page.tsx`):**
-
-```tsx
-import { SignUp } from "@clerk/nextjs";
-import React from "react";
-
-const SignUpPage = () => {
-  return (
-    <main className="flex items-center justify-center min-h-screen relative sign-bg">
-      <SignUp />
-    </main>
-  );
-};
-
-export default SignUpPage;
-```
-
-This structure allows you to globally style all Clerk auth pages by simply importing your chosen theme in the layout file.
 
 ### Other Frameworks
 
