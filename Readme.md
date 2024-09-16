@@ -40,6 +40,8 @@ const SignInPage = () => {
     </main>
   );
 };
+
+export default SignInPage;
 ```
 ### Step 5: Create Sign-up Page (`src/app/(auth)/sign-up/[[...sign-up]]/page.tsx`):
 
@@ -49,7 +51,7 @@ import React from "react";
 
 const SignUpPage = () => {
   return (
-    <main className="flex items-center justify-center min-h-screen relative sign-bg">
+    <main className="flex items-center justify-center min-h-screen relative ">
       <SignUp />
     </main>
   );
