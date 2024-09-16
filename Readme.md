@@ -33,7 +33,7 @@
    import { neobrutalism } from "@clerk/themes";
 ```
 
-### Step 5: Must add  `neobrutalism` this in your   `<ClerkProvider>` like this in your root directory :
+### Step 5: Must add  `neobrutalism` and `variables: { colorPrimary: "#fa0053" },` this in your  `<ClerkProvider>` , in your root directory :
 
   ```tsx
       <ClerkProvider
